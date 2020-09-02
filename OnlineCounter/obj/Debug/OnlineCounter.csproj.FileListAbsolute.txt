@@ -1,0 +1,17 @@
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\OnlineCounter.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\OnlineCounter.pdb
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Newtonsoft.Json.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Owin.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\bin\Newtonsoft.Json.xml
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\obj\Debug\OnlineCounter.csprojResolveAssemblyReference.cache
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\obj\Debug\OnlineCounter.dll
+c:\users\bhrnjica\documents\visual studio 2012\Projects\OnlineCounter\OnlineCounter\obj\Debug\OnlineCounter.pdb
